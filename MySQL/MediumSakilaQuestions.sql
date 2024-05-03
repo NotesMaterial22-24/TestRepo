@@ -2,6 +2,7 @@
 -SELECT a.first_name, a.last_name
 ---------------------
 FROM 
+--------------------------
 	actor a
 JOIN
 	film_actor fa
