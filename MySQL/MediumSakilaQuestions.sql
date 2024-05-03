@@ -1,5 +1,5 @@
 -- Q.1- Which actors participated in the movie ‘Academy Dinosaur’? Print their first and last names.
-SELECT a.first_name, a.last_name
+--SELECT a.first_name, a.last_name
 FROM 
 	actor a
 JOIN
